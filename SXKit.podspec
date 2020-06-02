@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 s.name        = "SXKit"
-s.version      = "0.0.1"
+s.version      = "0.0.2"
 s.summary      = "仿照电影app的座位选座"
 s.description  = <<-DESC
 根据数据画出座位图，高仿电影app的选座，开发语言objective-c
